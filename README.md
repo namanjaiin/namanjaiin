@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naman1290
-- 👀 I’m interested in Cloud computing , network security , Web development
+- 👀 I’m skilled DevSecOps Engineer in Cloud computing , network security
 - 🌱 I’m currently learning MERN Stack Development and Data Analysis
 - 📫 How you reach me through email: jainn1290@gmail.com
 
