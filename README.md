@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naman1290
-- 👀 I’m skilled DevSecOps Engineer in Cloud computing , network security
-- 🌱 I’m currently learning MERN Stack Development and Data Analysis
+- 👀 A 3+ years of experience in Cloud and DevSecOps Engineer.
+- 🌱 Currently working on latest edge cutting tech such as AWS, Linux, CI/CD, Docker, Kubernetes, Helm, GitOps, MLOps, Terraform, Security
 - 📫 How you reach me through email: jainn1290@gmail.com
 
 <!---
