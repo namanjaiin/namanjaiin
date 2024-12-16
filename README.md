@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @namanjaiin
 - 👀 A 3+ years of experience in Cloud and DevSecOps Engineer.
-- 🌱 Currently working on latest edge cutting tech such as AWS, Linux, CI/CD, Docker, Kubernetes, Helm, GitOps, MLOps, Terraform, Security
+- 🌱 Currently working on latest edge cutting tech such as AWS, Linux, CI/CD, Docker, Kubernetes, Helm, GitOps, ArgoCD, MLOps, Terraform, Security
 - 📫 How you reach me through email: jainn1290@gmail.com
 
 <!---
