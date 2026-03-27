@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @namanjaiin
-- 👀 A 3+ years of experience in Cloud and DevSecOps Engineer.
+- 👀 A 3+ years of experience in Cloud and DevSecOps Engineer serving at SourceFuse.
 - 🌱 Currently working on latest edge cutting tech such as AWS, Linux, CI/CD, Jenkins, Docker, Kubernetes, Helm, GitOps, ArgoCD, MLOps, Terraform, Security, Snyk, SonarQube, Trivy, Prometheus, Grafana, New Relic 
 - 📫 How you reach me through email: jainn1290@gmail.com
 
